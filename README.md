@@ -77,9 +77,4 @@ Em Project SDK, selecione o JDK 21.
 Em Project language level, selecione 21 - (Java 21).
 
 Certifique-se de que o Maven está configurado corretamente em Build, Execution, Deployment > Build Tools > Maven.
-Reddit
-
-📄 Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-Sinta-se à vontade para personalizar este README.md conforme as especificidades do seu projeto. Se precisar de mais alguma coisa, estou à disposição!
+Reddit.
